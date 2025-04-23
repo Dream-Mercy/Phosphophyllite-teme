@@ -9,5 +9,5 @@
 
 ## Скрины  
 ![Скриншот](https://i.ibb.co/7xF0dnnv/photo-2025-04-23-15-11-43.jpg)
-![Скриншот](https://i.ibb.co/d0qsMZ8C/photo-2025-04-23-15-11-33.jpg), 
+![Скриншот](https://i.ibb.co/d0qsMZ8C/photo-2025-04-23-15-11-33.jpg)
 ![Скриншот](https://i.ibb.co/PGZXrVCX/photo-2025-04-23-15-11-40.jpg) 
