@@ -16,7 +16,7 @@
 @import url("https://raw.githubusercontent.com/Dream-Mercy/Phosphophyllite-theme/main/theme.css");
 ```
 ## ✨ Особенности
-###🎨 Цветовая схема
+### 🎨 Цветовая схема
 ```css
 :root {
   --bright-color: #6BBABC;  /* Бирюзовые акценты */
