@@ -4,7 +4,7 @@
 
 ## Как установить  
 ```css
-@import url("https://raw.githubusercontent.com/Dream-Mercy/Phosphophyllite-teme/refs/heads/main/Phosphophyllite_Shikimori-teme");
+@import url("https://raw.githubusercontent.com/Dream-Mercy/Phosphophyllite-teme/main/theme.css");
 ```
 
 ## Скрины  
