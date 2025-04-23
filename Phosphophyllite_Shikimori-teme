@@ -1,0 +1,66 @@
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_1.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_2.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_3.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_4mob.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/prof_form_over.css");
+body:after {
+ background-image: url(https://i.ibb.co/HTbd0YkY/cb1002a96dc0af68483f6569193cfda0.jpg);
+}
+.l-footer::after {
+  content: "*Calidum*";
+  display: inline;
+}
+
+@media screen and (min-width: 1200px) {
+  #profiles_show .profile-head::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://i.ibb.co/yBKqknk0/i.jpg);
+    background-size: cover;
+    background-position: center;
+    z-index: 1;
+  }
+:root {
+  /* Основные цвета */
+  --white-color: #FFFFFF;
+  --light-color: #D0F0F0;
+  --dark-color: #0A1F26;
+  --bright-color: #6BBABC;
+  --dull-color: #3A6E70;
+  /* ===== ФОРМЫ И КНОПКИ ===== */
+  --input-color: 58, 110, 112;                  /* Поля ввода (тёмные) */
+  /* Интерактив */
+  --buttoms-color: #3A6E70;
+  --hover-bottoms-1: #4A8A8D;
+  --hover-color: rgba(107, 186, 188, 0.3)
+  --hover-buttoms-2: 107, 186, 188;              /* Активное состояние */
+   /* Дополнительные настройки */
+  --text-shadow: 0 0 5px #6BBABC, 0 0 10px rgba(107, 186, 188, 0.7);
+  --shadows-color: rgba(5, 25, 32, 0.8);
+  /* ===== РЕЙТИНГИ ===== */
+  --very-high-rating: 45, 93, 95;             /* Бирюза (макс. оценка) */
+  --high-rating: 58, 110, 112;                  /* Высокий */
+  --average-rating: 74, 138, 141;               /* Средний */
+  --small-rating: 107, 186, 188;                 /* Низкий */
+
+  /* ===== ПРОГРЕСС ===== */
+  --time-filled: 45, 93, 95;                  /* Заполненное время */
+  --time-empty: 74, 138, 141;                   /* Пустое */
+  --anime-inprocess: 255, 215, 0;              /* Золотой (в процессе) */
+  --anime-complete: 58, 110, 112;               /* Бирюза (завершено) */
+  --manga-inprocess: 255, 215, 0;              /* Золотой */
+  --manga-complete: 10, 31, 38;               /* Тёмная бирюза */
+
+  /* ===== ТЕНИ И БЛОКИ ===== */
+  --shadows-color: rgba(5, 25, 32, 0.8);   /* Тени */
+  --block-color: 58, 110, 112;                  /* Блоки (карточки) */
+  --menu-back: 107, 186, 188;                    /* Меню (как фон) */
+  --nick-cover: rgba(107, 186, 188, 0.1);  /* Подложка ника */
+  --popup-color: 5, 25, 32;                  /* Попапы */ 
+  /* Дополнительно */
+  --gold-color: #FFD700;
+  --phos-crack-gold: #FFD700;
+}
