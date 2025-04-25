@@ -13,7 +13,7 @@
 
 Или вставь вручную:
 ```css
-@import url("https://raw.githubusercontent.com/Dream-Mercy/Phosphophyllite-theme/main/theme.css");
+@import url("https://raw.githubusercontent.com/Dream-Mercy/Phosphophyllite-theme/main/Phos_Shiki-theme.css");
 ```
 ## ✨ Особенности
 ### 🎨 Цветовая схема
